@@ -1,6 +1,6 @@
 let score = 0;
 let playAgain = true;
-
+//test comment
 while (playAgain === false) 
   const randomNumber = Math.floor(Math.random() * 100) + 1;
   const userGuess = prompt("Guess a number between 1 and 10:");
