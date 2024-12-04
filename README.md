@@ -22,3 +22,4 @@ You should follow our bug hunting procedure exactly. Namely:
 - Once it is fixed you should add and commit to git with a message including the phrase `"fixes <insert commit number here>"`, e.g. `"fixes #12"`
 - Keep going until all the functionality is how it should be
 
+Test
